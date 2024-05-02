@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dzoel31
-- 👀 I’m interested in Web Develop
-- 🌱 I’m currently learning Python, HTML, CSS
-- 💞️ I’m looking to collaborate on Web Develop
+- 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Back-End
+- 🌱 I’m currently learning Python, Javascript, HTML, CSS
+- 💞️ I’m looking to collaborate on Data Science project
 - I'm still learning
 - 📫 How to reach me ...
 
