@@ -1,10 +1,11 @@
 ### 👋 Hi, I’m @Dzoel31
 
+- ✍ Im student at The National Development University "Veteran" of Jakarta
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Back-End
 - 🌱 I’m currently learning Python, Javascript, HTML, CSS
 - 💞️ I’m looking to collaborate on Data Science
 - 📖 I'm still learning and trying to improve my skills in programming
-
+- 📧 Reach me on [dzulfikriadjmal@gmail.com](mailto:dzulfikriadjmal@gmail.com)
 <!---
 Dzoel31/Dzoel31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -27,5 +28,5 @@ You can click the Preview link to take a look at your changes.
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=flat&logo=jupyter)&nbsp;
