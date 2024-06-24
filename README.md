@@ -2,7 +2,7 @@
 
 - ✍ Im student at The National Development University "Veteran" of Jakarta
 - 👀 I’m interested in Data Science, Machine Learning, Artificial Intelligence, and Back-End
-- 🌱 I’m currently learning Python, Javascript, HTML, CSS
+- 🌱 I’m currently learning Python, Javascript
 - 💞️ I’m looking to collaborate on Data Science
 - 📖 I'm still learning and trying to improve my skills in programming
 - 📧 Reach me on [dzulfikriadjmal@gmail.com](mailto:dzulfikriadjmal@gmail.com)
